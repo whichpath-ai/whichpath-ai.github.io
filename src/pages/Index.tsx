@@ -276,9 +276,9 @@ const Index = () => {
           <div className="text-center">
             <div className="mb-6">
               <img 
-                src="/lovable-uploads/fc924330-a2fd-4538-a013-84e7ddd3fc7b.png" 
+                src="/lovable-uploads/fee0bee8-ac71-46cf-a168-ca2f48a6bc4a.png" 
                 alt="WhichPath Logo" 
-                className="h-12 w-auto mx-auto mb-4 filter invert"
+                className="h-12 w-auto mx-auto mb-4"
               />
             </div>
             
